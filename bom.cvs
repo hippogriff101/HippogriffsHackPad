@@ -1,4 +1,5 @@
-Item,Description,Quantity,Unit Price (£),Total (£),Link,Notes
-Microcontroller,Seeed Studio XIAO SAMD21,1,10.39,10.39,https://cpc.farnell.com/seeed-studio/102010388/dev-board-xiao-samd21g18/dp/SC19995,Main controller for QMK firmware
-Switches,Cherry MX Red (3 pack or equivalent),3,1.48,4.44,https://www.keyboardco.com/product.asp?PRODUCT=943,Mechanical key switches (linear)
-Rotary Encoder,EC11 Rotary Encoder with Push Button,1,3.85,3.85,https://www.switchelectronics.co.uk/products/20mm-rotary-encoder-with-switch-6mm-d-shaft,Rotary input with click
+Item,Description,Quantity,Unit Price (£),Total including VAT and Shipping (£),Link,Notes
+Microcontroller,Seeed Studio XIAO SAMD21,1,5.34,10.39,https://cpc.farnell.com/seeed-studio/102010388/dev-board-xiao-samd21g18/dp/SC19995,Main controller for QMK firmware
+Switches,Cherry MX Red,3,0.40,4.44,https://www.keyboardco.com/product.asp?PRODUCT=943,Mechanical key switches (linear)
+Rotary Encoder,EC11 Rotary Encoder with Push Button,1,0.86,3.85,https://www.switchelectronics.co.uk/products/20mm-rotary-encoder-with-switch-6mm-d-shaft,Rotary input with click
+Keycaps,Accuratus 1x1 Cherry MX Relegendable Keycap,3,0.65,5.82,https://ceratech.co.uk/products/accuratus-1x1-cherry-mx-relegendable-keycap-black-cherry-mx-stem-on-back-with-clear-top-cover,Goes ontop of switches
